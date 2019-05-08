@@ -1,1 +1,8 @@
 
+1] Compile using the make command.
+2] Execute deadlocks by using   ./deadlock1
+				./deadlock2
+				./deadlock3
+				./deadlock4
+3] Deadlock explanation is present in Deadlocks.pdf
+4] Race Conditions explanation is present in Race Conditions.pdf
