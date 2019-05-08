@@ -1,1 +1,6 @@
 
+1] Compile using the make command.
+2] Run the executable along with the command line arguments(executable, path of testcase file, number of threads) by giving the following    command:
+		./main path_pf_test_file/TestCase 15
+
+3] I limited the number of threads to 50. So the code will not run of the number of threads passed in the command line argument is greater    than 50. 
