@@ -1,0 +1,10 @@
+Subject: Hello
+Subject: Greetings
+SUBJECT: C,invalidinp,11/11,invalid
+Subject: C,Meeting   ,01/12/2019,15:30,LarsenHall
+Subject: C,Festival  ,05/04/2019,14:30,LarsenHall
+Subject: C,Basic     ,05/04/2019,14:40,BentonHall
+Subject: C,Basic     ,05/04/2019,14:20,NEB0000202
+Subject: C,Group     ,02/04/2019,01:20,McCarthyDr       
+
+

@@ -1,0 +1,9 @@
+Subject: Hello
+Subject: C,Festival  ,11/10/2019,16:30,BentonHall
+Subject: C,Festival  ,11/10/2019,15:30,BentonHall
+Subject: D,Festival  ,11/10/2019,14:30,BentonHall
+Subject: D,Festival  ,11/10/2019,11:30,BentonHall
+Subject: C,Housing   ,12/10/2019,10:30,ReitzUnion
+Subject: C,Camping   ,13/10/2019,09:30,LarsenHall
+
+

@@ -1,0 +1,13 @@
+Subject: Hello
+Subject: Greetings
+SUBJECT: C,invalidinp,11/11,invalid
+Subject: C,Festival  ,01/12/2019,15:30,LarsenHall
+Subject: X,Festival  ,05/12/2019,14:00,BentonHall
+Subject: C,Debug     ,05/05/2019,14:25,McCarthyDr
+Subject: C,Group     ,05/05/2019,14:35,NewellHall
+Subject: C,Group     ,05/05/2019,14:10,RietzUnion
+Subject: X,Debug     ,03/05/2019,12:00,RawlingsPL
+Subject: C,Housing   ,07/05/2019,14:10,RietzUnion
+Subject: C,Jam       ,05/05/2019,18:10,LibraryWst
+Subject: X,Housing   ,07/05/2019,12:00,MarstonLib
+
