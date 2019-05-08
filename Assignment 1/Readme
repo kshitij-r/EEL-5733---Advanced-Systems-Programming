@@ -1,1 +1,5 @@
 
+Compile email_filter.c
+Compile calender_filter.c
+Compile location_updater.c
+Run executable of location_updater.c to get the desired outputs.
